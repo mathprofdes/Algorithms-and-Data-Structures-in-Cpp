@@ -1,0 +1,26 @@
+Order:
+
+Trees_StaticVariables1
+Trees_StaticVariables2
+Trees_StaticVariables3
+Friends
+Assignment1
+Assignment2
+Assignment3
+Assignment4
+Assignment5
+FeetInches1
+FeetInches2
+FeetInches3
+FeetInches4
+FeetInches5
+IntegerList1
+IntegerList2
+IntegerList3
+IntegerList4
+RationalNumbers
+Vector
+Aggregation1
+Aggregation2
+
+MoreExamples: Do some of the later examples for more advanced operator overloading.
